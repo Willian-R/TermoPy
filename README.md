@@ -1,2 +1,2 @@
 # TermoPy
- Programa em pytho sobre Termodinâmica
+ Programa em python sobre Termodinâmica
